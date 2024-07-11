@@ -42,7 +42,7 @@ Para ejecutar localmente el proyecto, siga estos pasos:
 
 Clonar el Repositorio:
 
-git clone https://github.com/tu_usuario/employee-management.git
+git clone https://github.com/MatiasSebastianPepe/employee-management.git
 cd employee-management
 
 Instalar Dependencias:
