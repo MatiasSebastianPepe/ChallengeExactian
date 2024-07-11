@@ -1,6 +1,7 @@
 Este repositorio contiene una aplicación de gestión de empleados desarrollada con tecnologías modernas para mantener registros de ingreso y egreso de empleados en una compañía.
 
-Tecnologías Utilizadas
+Tecnologías Utilizadas:
+
 React
 Utilizado para desarrollar la interfaz de usuario dinámica y responsive de la aplicación web.
 
