@@ -44,7 +44,6 @@ Para ejecutar localmente el proyecto, siga estos pasos:
 Clonar el Repositorio:
 
 git clone https://github.com/MatiasSebastianPepe/ChallengeExactian.git
-cd employee-management
 
 Instalar Dependencias:
 
